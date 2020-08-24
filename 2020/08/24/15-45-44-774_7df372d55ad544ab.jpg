@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+
+<head>
+ <title>Matt Might: Not found</title>
+
+ <script src="http://matt.might.net/matt.might.js"></script>
+ <script>
+  ShouldDisplayHomePageLink = false ;
+  Might.includeDefaultStyle();
+ </script>
+
+ 
+</head>
+
+
+<body>
+
+<div id="body">
+<div id="content-container" class="module">
+<div id="content">
+
+ <div style="width: 530px; height: 100px ;">
+   <div style="float: left;">
+     <span style="font-size: 40px; font-weight: bold;">Matt Might</span> <br />
+     <span style="font-size: 27px; ">Assistant Professor </span>
+   </div>
+   <div style="float: right;">
+
+     <a href="http://www.cs.utah.edu/">School of Computing</a> <br />
+     <a href="http://www.utah.edu/">University of Utah</a> <br />
+     Office: 3450 in <a href="http://www.map.utah.edu/map.jsp?action=10&xmax=431790&ymax=4514440&xmin=427710&ymin=4512040&session=-1024651292&source=map&map.x=146&map.y=173">MEB</a> <br />
+     <script>
+     document.write('<a href="mai'+'lto:'+'mi'+'ght@'+'cs.'+'uta'+'h.ed'+'u">'+
+      'mi' + 'ght' + '@cs.ut' + 'ah.ed' + 'u</a>');
+     </script>
+   </div>
+ </div>
+ 
+
+<p>
+ The page you're trying to find on my site doesn't seem to exist anymore.
+</p>
+
+<p>
+Most of the content on my site is accessible from <a href="http://matt.might.net/">my home page</a>.
+</p>
+
+<style type="text/css">
+  #goog-wm { }
+  #goog-wm h3.closest-match { }
+  #goog-wm h3.closest-match a { }
+  #goog-wm h3.other-things { }
+  #goog-wm ul li { }
+  #goog-wm li.search-goog { display: block; }
+</style>
+<script type="text/javascript">
+  var GOOG_FIXURL_LANG = 'en';
+  var GOOG_FIXURL_SITE = 'http://matt.might.net/';
+</script>
+<script type="text/javascript" 
+    src="http://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js"></script>
+
+ 
+
+</div> <!-- /#content -->
+</div> <!-- /#content-container -->
+
+</div> <!-- /#body -->
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3661244-1");
+pageTracker._trackPageview();
+</script>
+
+
+</body>
+</html>
